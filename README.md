@@ -10,7 +10,7 @@ The website was done using only Vanilla HTML, CSS, Javascript.
 
 ## Link to Website (hosted with GitHub Pages)
 
-- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-room-homepage-_pE3J6kJA)
+- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-room-homepage-_pE3J6kJ_A)
 - [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/Room-homepage-master/)
 
 
