@@ -10,8 +10,8 @@ The website was done using only Vanilla HTML, CSS, Javascript.
 
 ## Link to Website (hosted with GitHub Pages)
 
-- [Frontend Mentor Solution URL](https://www.frontendmentor.io/challenges/frontend-quiz-app-BE7xkzXQnU)
-- [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/Frontend-quiz-app/)
+- [Frontend Mentor Solution URL](https://www.frontendmentor.io/solutions/responsive-room-homepage-_pE3J6kJA)
+- [Live Site URL - GitHub Pages](https://cristian-nastase.github.io/Room-homepage-master/)
 
 
 ## Author
